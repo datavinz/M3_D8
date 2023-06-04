@@ -1,7 +1,7 @@
 Creazione di un database utilizzando MySQL per la sezione "Pit.DATA.Stop" di un programma televisivo sportivo sulla Formula 1.
 
 Sommario:
-Il progetto prevede la creazione di un database utilizzando il linguaggio SQL e il sistema di gestione dei database MySQL. L'obiettivo è supportare il giornalista di un programma televisivo sportivo nella sezione "Pit.DATA.Stop", dove verranno proposti spunti inusuali basati sui dati della stagione di Formula 1 precedente.
+Il progetto prevede la creazione di un database, partendo dalla progettazione concettuale/logica/ER, per poi utilizzare il linguaggio SQL e il sistema di gestione dei database MySQL. L'obiettivo è supportare il giornalista di un programma televisivo sportivo nella sezione "Pit.DATA.Stop", dove verranno proposti spunti inusuali basati sui dati della stagione di Formula 1 precedente.
 
 Utilizzando il linguaggio SQL, saranno create le tabelle del database attraverso l'utilizzo di comandi DDL (Data Definition Language) per definire la struttura dei dati.
 
